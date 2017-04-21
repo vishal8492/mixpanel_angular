@@ -3,6 +3,7 @@
  */
 angular.module('angular.mixpanel', [])
     .factory('mixpanel', function(config) {
+	//This code is snippet provided by mixpanel only ; wrapper shoudl just export it to be globally available
         (function (e, a) {
             if (!a.__SV) {
                 var b = window;
