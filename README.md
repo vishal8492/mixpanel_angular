@@ -1,0 +1,1 @@
+# mixpanel_angular
